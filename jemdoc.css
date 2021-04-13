@@ -184,12 +184,24 @@ ul, ol, dl {
 	margin-bottom: 0.8em;
 }
 
+ul.sep {
+	margin-top: 0.3em;
+}
+
 li.pub:not(:last-child) {
     margin-bottom: 0.8em;
 }
 
 li.news:not(:last-child) {
     margin-bottom: 0.5em;
+}
+
+li.bigsep {
+	margin-bottom: 0.5em;
+}
+
+li.smallsep {
+	margin-bottom: 0.1em;
 }
 
 dt {
